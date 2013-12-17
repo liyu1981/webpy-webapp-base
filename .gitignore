@@ -1,0 +1,6 @@
+*.pyc
+*.a
+*.o
+*.log
+*~
+.DS_Store
